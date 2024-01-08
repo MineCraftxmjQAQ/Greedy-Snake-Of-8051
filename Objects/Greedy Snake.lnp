@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Greedy Snake.obj" 
+TO ".\Objects\Greedy Snake" 
+PRINT(".\Listings\Greedy Snake.m51")
